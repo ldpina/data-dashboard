@@ -1,0 +1,49 @@
+.List {
+
+    width: 100vw;
+    font-size: medium;
+    border-radius: 24px;
+    backdrop-filter: blur(4px);
+    background-color: rgba(255, 255, 255, 0.092);
+    text-align: center;
+    padding: 20px;
+    padding-bottom: 40px;
+    
+}
+
+.filters {
+    margin-left: 150px;
+    padding-bottom: 20px;
+    padding-top:10px;
+    display: flex;
+}
+
+.proteinFilter {
+    margin-right: 18px;
+}
+
+.cuisineFilter {
+    margin-right: 10px;
+}
+
+.btn {
+    color:white;
+    font-family: 'Avenir';
+    background-color: darkorange;
+}
+
+th {
+  text-align: center;
+  padding-bottom: 10px;
+  margin-right: 50px;
+}
+
+td {
+    width: 600px;
+}
+
+table {
+    margin-left:10px;
+    text-align: center;
+    border-spacing: 10px;
+  }
