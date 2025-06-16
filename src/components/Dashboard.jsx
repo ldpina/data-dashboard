@@ -1,6 +1,8 @@
 import React from 'react';
 import Card from './Card';
 import List from './List';
+import { Outlet, Link } from "react-router-dom";
+
 
 
 const Dashboard = ({data}) => {
